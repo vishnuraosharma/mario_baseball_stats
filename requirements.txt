@@ -4,4 +4,3 @@ pandas
 Pillow
 plotly
 openai
-base64
