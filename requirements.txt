@@ -1,3 +1,7 @@
-streamlit
+pytesseract
 mysql-connector-python
 pandas
+Pillow
+plotly
+openai
+base64
